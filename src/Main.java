@@ -16,7 +16,6 @@ public class Main {
                 break;
             }else
             result *= base;
-
         }
 
         return result;
